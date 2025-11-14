@@ -41,7 +41,8 @@ Os jogos aqui podem focar em diferentes camadas desta pilha:
 * **Camada de Aplicação:** Um jogo que abstrai tudo isso e simplesmente usa a "lógica quântica" (ex: um objeto estar em dois lugares ao mesmo tempo) como sua mecânica central.
 
 ---
-
+<br>
+</br>
 Games here can focus on different layers of this stack:
 
 * **Physical Layer (Hardware):** A game can simulate **decoherence** and the need for error correction.
