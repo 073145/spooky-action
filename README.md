@@ -19,6 +19,7 @@ This repository (and the games within it) aims to rescue fundamental concepts li
 The goal of this project goes beyond simply using the word "quantum" as a superficial theme. The intention is to create games that teach or are metaphorically based on **how quantum computing actually works**.
 
 The image below illustrates the "Quantum Full-Stack" — the various layers of abstraction allowed to make a quantum computer operate, from the physical hardware (Qubits) to the final application that the user sees.
+
 <br>
 </br>
 <img width="1024" height="745" alt="O Quantum Full-Stack" src="https://github.com/user-attachments/assets/f08aa446-52b2-4099-b3ad-4a0a8bacd198" />
