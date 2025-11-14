@@ -22,6 +22,7 @@ The image below illustrates the "Quantum Full-Stack" — the various layers of a
 
 <img width="1024" height="745" alt="O Quantum Full-Stack" src="https://github.com/user-attachments/assets/f08aa446-52b2-4099-b3ad-4a0a8bacd198" />
 
+<br>
 Os jogos aqui podem focar em diferentes camadas desta pilha:
 
 * **Camada Física (Hardware):** Um jogo pode simular a **decoerência** e a necessidade de correção de erros.
