@@ -22,6 +22,11 @@ The image below illustrates the "Quantum Full-Stack" — the various layers of a
 
 <img width="1024" height="745" alt="O Quantum Full-Stack" src="https://github.com/user-attachments/assets/f08aa446-52b2-4099-b3ad-4a0a8bacd198" />
 
+<img width="2400" height="1600" alt="image" src="https://github.com/user-attachments/assets/8511a5ee-85c2-41ea-b837-d5409daa091c" />
+
+<img width="448" height="436" alt="image" src="https://github.com/user-attachments/assets/4906c98d-996b-4a4f-8f38-80a6650cd8dd" />
+
+
 <br>
 Os jogos aqui podem focar em diferentes camadas desta pilha:
 
